@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendário da Copa é um projeto que mostra os jogos da copa de 2022.
+O Calendário da Copa é um projeto que mostra os jogos da copa de 2022. Você pode vê-lo [clicando aqui](https://paulaandrezza.github.io/nlw-10-copa/).
 
 ## 🔖 Layout
 
